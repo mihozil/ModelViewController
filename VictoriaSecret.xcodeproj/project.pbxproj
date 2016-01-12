@@ -7,13 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		180C134E1C3E533F00E4E966 /* BraVc.m in Sources */ = {isa = PBXBuildFile; fileRef = 180C134D1C3E533F00E4E966 /* BraVc.m */; };
+		18277DF71C3FA7F800B9882C /* BikiniVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 18277DF61C3FA7F800B9882C /* BikiniVC.m */; };
+		18277DFA1C3FB08A00B9882C /* Detail.m in Sources */ = {isa = PBXBuildFile; fileRef = 18277DF91C3FB08A00B9882C /* Detail.m */; };
 		18EF15D01C3D076700E757B0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF15CF1C3D076700E757B0 /* main.m */; };
 		18EF15D31C3D076700E757B0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF15D21C3D076700E757B0 /* AppDelegate.m */; };
-		18EF15D61C3D076700E757B0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF15D51C3D076700E757B0 /* ViewController.m */; };
 		18EF15D91C3D076700E757B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15D71C3D076700E757B0 /* Main.storyboard */; };
 		18EF15DB1C3D076700E757B0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15DA1C3D076700E757B0 /* Images.xcassets */; };
 		18EF15DE1C3D076700E757B0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15DC1C3D076700E757B0 /* LaunchScreen.xib */; };
 		18EF15EA1C3D076700E757B0 /* VictoriaSecretTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF15E91C3D076700E757B0 /* VictoriaSecretTests.m */; };
+		18EF16031C3D0FC800E757B0 /* frontpage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15F41C3D0FC800E757B0 /* frontpage.jpg */; };
+		18EF16041C3D0FC800E757B0 /* huonglan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15F51C3D0FC800E757B0 /* huonglan.jpg */; };
+		18EF16051C3D0FC800E757B0 /* huonglan0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15F61C3D0FC800E757B0 /* huonglan0.jpg */; };
+		18EF16061C3D0FC800E757B0 /* huongnhi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15F71C3D0FC800E757B0 /* huongnhi.jpg */; };
+		18EF16071C3D0FC800E757B0 /* huongnhi0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15F81C3D0FC800E757B0 /* huongnhi0.jpg */; };
+		18EF16081C3D0FC800E757B0 /* maianh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15F91C3D0FC800E757B0 /* maianh.jpg */; };
+		18EF16091C3D0FC800E757B0 /* maianh0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15FA1C3D0FC800E757B0 /* maianh0.jpg */; };
+		18EF160A1C3D0FC800E757B0 /* maitrang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15FB1C3D0FC800E757B0 /* maitrang.jpg */; };
+		18EF160B1C3D0FC800E757B0 /* maitrang0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15FC1C3D0FC800E757B0 /* maitrang0.jpg */; };
+		18EF160C1C3D0FC800E757B0 /* mylinh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15FD1C3D0FC800E757B0 /* mylinh.jpg */; };
+		18EF160D1C3D0FC800E757B0 /* mylinh0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15FE1C3D0FC800E757B0 /* mylinh0.jpg */; };
+		18EF160E1C3D0FC800E757B0 /* phonglan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF15FF1C3D0FC800E757B0 /* phonglan.jpg */; };
+		18EF160F1C3D0FC800E757B0 /* phonglan0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF16001C3D0FC800E757B0 /* phonglan0.jpg */; };
+		18EF16101C3D0FC800E757B0 /* phuongnhung.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF16011C3D0FC800E757B0 /* phuongnhung.jpg */; };
+		18EF16111C3D0FC800E757B0 /* phuongnhung0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18EF16021C3D0FC800E757B0 /* phuongnhung0.jpg */; };
+		18EF16141C3D104100E757B0 /* VictoriaSecret.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18EF16131C3D104100E757B0 /* VictoriaSecret.plist */; };
+		18EF16181C3D138000E757B0 /* VSModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF16171C3D138000E757B0 /* VSModel.m */; };
+		18EF161B1C3D158100E757B0 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF161A1C3D158100E757B0 /* DataManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,19 +47,43 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		180C134C1C3E533F00E4E966 /* BraVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BraVc.h; sourceTree = "<group>"; };
+		180C134D1C3E533F00E4E966 /* BraVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BraVc.m; sourceTree = "<group>"; };
+		18277DF51C3FA7F800B9882C /* BikiniVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BikiniVC.h; sourceTree = "<group>"; };
+		18277DF61C3FA7F800B9882C /* BikiniVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BikiniVC.m; sourceTree = "<group>"; };
+		18277DF81C3FB08A00B9882C /* Detail.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Detail.h; sourceTree = "<group>"; };
+		18277DF91C3FB08A00B9882C /* Detail.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Detail.m; sourceTree = "<group>"; };
 		18EF15CA1C3D076700E757B0 /* VictoriaSecret.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VictoriaSecret.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EF15CE1C3D076700E757B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18EF15CF1C3D076700E757B0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		18EF15D11C3D076700E757B0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		18EF15D21C3D076700E757B0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		18EF15D41C3D076700E757B0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		18EF15D51C3D076700E757B0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		18EF15D81C3D076700E757B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		18EF15DA1C3D076700E757B0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		18EF15DD1C3D076700E757B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		18EF15E31C3D076700E757B0 /* VictoriaSecretTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VictoriaSecretTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EF15E81C3D076700E757B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18EF15E91C3D076700E757B0 /* VictoriaSecretTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VictoriaSecretTests.m; sourceTree = "<group>"; };
+		18EF15F41C3D0FC800E757B0 /* frontpage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = frontpage.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15F51C3D0FC800E757B0 /* huonglan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huonglan.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15F61C3D0FC800E757B0 /* huonglan0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huonglan0.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15F71C3D0FC800E757B0 /* huongnhi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huongnhi.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15F81C3D0FC800E757B0 /* huongnhi0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huongnhi0.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15F91C3D0FC800E757B0 /* maianh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maianh.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15FA1C3D0FC800E757B0 /* maianh0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maianh0.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15FB1C3D0FC800E757B0 /* maitrang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maitrang.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15FC1C3D0FC800E757B0 /* maitrang0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maitrang0.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15FD1C3D0FC800E757B0 /* mylinh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mylinh.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15FE1C3D0FC800E757B0 /* mylinh0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mylinh0.jpg; sourceTree = SOURCE_ROOT; };
+		18EF15FF1C3D0FC800E757B0 /* phonglan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = phonglan.jpg; sourceTree = SOURCE_ROOT; };
+		18EF16001C3D0FC800E757B0 /* phonglan0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = phonglan0.jpg; sourceTree = SOURCE_ROOT; };
+		18EF16011C3D0FC800E757B0 /* phuongnhung.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = phuongnhung.jpg; sourceTree = SOURCE_ROOT; };
+		18EF16021C3D0FC800E757B0 /* phuongnhung0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = phuongnhung0.jpg; sourceTree = SOURCE_ROOT; };
+		18EF16131C3D104100E757B0 /* VictoriaSecret.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = VictoriaSecret.plist; sourceTree = "<group>"; };
+		18EF16161C3D138000E757B0 /* VSModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VSModel.h; sourceTree = "<group>"; };
+		18EF16171C3D138000E757B0 /* VSModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VSModel.m; sourceTree = "<group>"; };
+		18EF16191C3D158100E757B0 /* DataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataManager.h; sourceTree = "<group>"; };
+		18EF161A1C3D158100E757B0 /* DataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataManager.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +104,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		180C134B1C3E4E8700E4E966 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				18EF15D71C3D076700E757B0 /* Main.storyboard */,
+				180C134C1C3E533F00E4E966 /* BraVc.h */,
+				180C134D1C3E533F00E4E966 /* BraVc.m */,
+				18277DF51C3FA7F800B9882C /* BikiniVC.h */,
+				18277DF61C3FA7F800B9882C /* BikiniVC.m */,
+				18277DF81C3FB08A00B9882C /* Detail.h */,
+				18277DF91C3FB08A00B9882C /* Detail.m */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
 		18EF15C11C3D076700E757B0 = {
 			isa = PBXGroup;
 			children = (
@@ -83,10 +141,8 @@
 			children = (
 				18EF15D11C3D076700E757B0 /* AppDelegate.h */,
 				18EF15D21C3D076700E757B0 /* AppDelegate.m */,
-				18EF15D41C3D076700E757B0 /* ViewController.h */,
-				18EF15D51C3D076700E757B0 /* ViewController.m */,
-				18EF15D71C3D076700E757B0 /* Main.storyboard */,
-				18EF15DA1C3D076700E757B0 /* Images.xcassets */,
+				180C134B1C3E4E8700E4E966 /* ViewController */,
+				18EF16151C3D132500E757B0 /* Model */,
 				18EF15DC1C3D076700E757B0 /* LaunchScreen.xib */,
 				18EF15CD1C3D076700E757B0 /* Supporting Files */,
 			);
@@ -96,6 +152,8 @@
 		18EF15CD1C3D076700E757B0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				18EF16121C3D0FDC00E757B0 /* Face */,
+				18EF15F31C3D0FAC00E757B0 /* Photos */,
 				18EF15CE1C3D076700E757B0 /* Info.plist */,
 				18EF15CF1C3D076700E757B0 /* main.m */,
 			);
@@ -117,6 +175,48 @@
 				18EF15E81C3D076700E757B0 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		18EF15F31C3D0FAC00E757B0 /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				18EF15F41C3D0FC800E757B0 /* frontpage.jpg */,
+				18EF15F51C3D0FC800E757B0 /* huonglan.jpg */,
+				18EF15F71C3D0FC800E757B0 /* huongnhi.jpg */,
+				18EF15F91C3D0FC800E757B0 /* maianh.jpg */,
+				18EF15FB1C3D0FC800E757B0 /* maitrang.jpg */,
+				18EF15FD1C3D0FC800E757B0 /* mylinh.jpg */,
+				18EF15FF1C3D0FC800E757B0 /* phonglan.jpg */,
+				18EF16011C3D0FC800E757B0 /* phuongnhung.jpg */,
+			);
+			name = Photos;
+			sourceTree = "<group>";
+		};
+		18EF16121C3D0FDC00E757B0 /* Face */ = {
+			isa = PBXGroup;
+			children = (
+				18EF15F61C3D0FC800E757B0 /* huonglan0.jpg */,
+				18EF15F81C3D0FC800E757B0 /* huongnhi0.jpg */,
+				18EF15FA1C3D0FC800E757B0 /* maianh0.jpg */,
+				18EF15FC1C3D0FC800E757B0 /* maitrang0.jpg */,
+				18EF15FE1C3D0FC800E757B0 /* mylinh0.jpg */,
+				18EF16001C3D0FC800E757B0 /* phonglan0.jpg */,
+				18EF16021C3D0FC800E757B0 /* phuongnhung0.jpg */,
+			);
+			name = Face;
+			sourceTree = "<group>";
+		};
+		18EF16151C3D132500E757B0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				18EF16161C3D138000E757B0 /* VSModel.h */,
+				18EF16171C3D138000E757B0 /* VSModel.m */,
+				18EF16191C3D158100E757B0 /* DataManager.h */,
+				18EF161A1C3D158100E757B0 /* DataManager.m */,
+				18EF15DA1C3D076700E757B0 /* Images.xcassets */,
+				18EF16131C3D104100E757B0 /* VictoriaSecret.plist */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +299,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18EF16141C3D104100E757B0 /* VictoriaSecret.plist in Resources */,
+				18EF16111C3D0FC800E757B0 /* phuongnhung0.jpg in Resources */,
+				18EF16041C3D0FC800E757B0 /* huonglan.jpg in Resources */,
 				18EF15D91C3D076700E757B0 /* Main.storyboard in Resources */,
 				18EF15DE1C3D076700E757B0 /* LaunchScreen.xib in Resources */,
+				18EF160F1C3D0FC800E757B0 /* phonglan0.jpg in Resources */,
+				18EF160C1C3D0FC800E757B0 /* mylinh.jpg in Resources */,
+				18EF16031C3D0FC800E757B0 /* frontpage.jpg in Resources */,
+				18EF160D1C3D0FC800E757B0 /* mylinh0.jpg in Resources */,
+				18EF160E1C3D0FC800E757B0 /* phonglan.jpg in Resources */,
+				18EF16101C3D0FC800E757B0 /* phuongnhung.jpg in Resources */,
+				18EF160A1C3D0FC800E757B0 /* maitrang.jpg in Resources */,
+				18EF16071C3D0FC800E757B0 /* huongnhi0.jpg in Resources */,
+				18EF16051C3D0FC800E757B0 /* huonglan0.jpg in Resources */,
+				18EF16061C3D0FC800E757B0 /* huongnhi.jpg in Resources */,
 				18EF15DB1C3D076700E757B0 /* Images.xcassets in Resources */,
+				18EF16091C3D0FC800E757B0 /* maianh0.jpg in Resources */,
+				18EF16081C3D0FC800E757B0 /* maianh.jpg in Resources */,
+				18EF160B1C3D0FC800E757B0 /* maitrang0.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,8 +335,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18EF15D61C3D076700E757B0 /* ViewController.m in Sources */,
+				18EF161B1C3D158100E757B0 /* DataManager.m in Sources */,
+				18277DFA1C3FB08A00B9882C /* Detail.m in Sources */,
+				180C134E1C3E533F00E4E966 /* BraVc.m in Sources */,
+				18277DF71C3FA7F800B9882C /* BikiniVC.m in Sources */,
 				18EF15D31C3D076700E757B0 /* AppDelegate.m in Sources */,
+				18EF16181C3D138000E757B0 /* VSModel.m in Sources */,
 				18EF15D01C3D076700E757B0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,6 +532,7 @@
 				18EF15EF1C3D076700E757B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18EF15F01C3D076700E757B0 /* Build configuration list for PBXNativeTarget "VictoriaSecretTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +541,7 @@
 				18EF15F21C3D076700E757B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
